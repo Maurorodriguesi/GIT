@@ -1,2 +1,3 @@
 qwqwrqwqwwqr3241
     Entendendo o HEAD
+    esta linha foi modificada no ramo Master 
